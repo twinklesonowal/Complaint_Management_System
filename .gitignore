@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+build/
+dist/
+
+# Database files
+database/
+*.db
+*.sqlite
+*.sqlite3
+
+# User-uploaded content
+uploads/
+
+# Sensitive/internal data
+excel/
+*.xlsx
+*.xls
+
+# Secrets
+.env
+
+# Editor/OS junk
+.vscode/
+.DS_Store
